@@ -1,0 +1,30 @@
+Ek website ko alag alag apps me 
+Database connector ko download nahi karna padega
+
+
+Apps and Projects
+
+HTML, Django, CSS, JS
+
+MVC and MVT
+Software design pattern
+
+MVT - model view and template
+Project has apps and 
+Models - database Models
+View - how it appears
+It pulls data from the models and sends it to the template
+
+No separate controller
+URL dispatcher
+
+Static - images, files , koi bhi aapke server par aake dekh sakta hai
+What are models
+Register the models in the admin.py
+Register the Apps copy the APP NAME and paste into in INSTALLED_APPS
+makemigrations - creates changes and stores in a files
+migrate - apply the pending changes create by makemigration
+
+Django messages Framework
+Making Queries Django
+Django Auth
