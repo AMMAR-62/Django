@@ -1,2 +1,3 @@
 # Django
-Django Basics
+The first two are the projects which I have done using the tutorials from code with harry the project on the main branch is done by myself while experimenting with django ... 
+wanna add some serializers for admin .. later
